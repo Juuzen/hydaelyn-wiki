@@ -1,0 +1,7 @@
+L'Albero del Mondo, in antichità, era in grado di emettere una Luce talmente potente da tenere a bada l'[[Oscurità]] che avvolgeva [[Hydaelyn]]. Questa Luce donava protezione a tutti gli esseri viventi, fintanto che ne erano illuminati, tagliando quindi fuori tutte le creature provenienti dall'Oscurità.
+
+## Lucenti
+Chiunque facesse un patto con l'Albero del Mondo otteneva un frammento della sua Luce. Con tale frammento, poteva combattere l'Oscurità a prescindere da dove si trovasse. Tante persone hanno portato tale fardello, per consentire ad Hydaelyn di vivere in una tranquillità precaria. Col passare del tempo, tuttavia, i Lucenti sono giunti alla conclusione che quello era un costo troppo grande da pagare, soprattutto perché non vi era né fine né vittoria. Per cui, decisero di intraprendere un rituale per erigere una [[Rituale della Barriera Lucente|Barriera Lucente]] in grado di inglobare tutta Hydaelyn e difenderla così dall'Oscurità. Dopo che tale rituale è stato completato, tuttavia, non è rimasta più nessuna traccia dei Lucenti.
+
+## Foglia Lucente 
+I Kodama che dimorano negli infiniti rami dell'Albero Lucente posseggono ancora la Luce primigenia e, dato che l'Oscurità sta facendo breccia nella Barriera Lucente infettando a poco a poco Hydaelyn, stanno affiancando degli eroi valorosi in modo da portare avanti lo stesso compito che in precedenza i Lucenti portavano avanti facendo un patto con l'Albero Lucente. Loro chiamano questi eroi "Foglie Lucenti".

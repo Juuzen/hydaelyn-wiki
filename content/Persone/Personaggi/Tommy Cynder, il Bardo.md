@@ -1,0 +1,9 @@
+![[assets/Tommy.JPG]]
+
+Tommy Cynder nacque in una valle remota e quasi dimenticata dal resto del mondo, chiamata [[Felicistar]] dai suoi abitanti. Cresciuto in un piccolo villaggio dove la generosità era la legge non scritta, il giovane halfling sviluppò presto un amore profondo per la musica e per le leggende tramandate di generazione in generazione. Ogni melodia e racconto che ascoltava alimentava il suo spirito curioso, ma presto Tommy si rese conto che le storie del villaggio non gli bastavano più: desiderava qualcosa di nuovo, qualcosa di grande.
+
+Crescendo, il suo cuore fu preso da un desiderio irrefrenabile di esplorare il mondo oltre Felicistar. La passione per la musica si unì alla voglia di perfezionare l'arte oratoria, di comprendere il potere delle parole nel suscitare emozioni, nel ferire o nel conquistare le folle. Ma sopra ogni altra cosa, Tommy voleva trovare una nuova leggenda da raccontare, o forse, diventare lui stesso la leggenda che sarebbe stata narrata per secoli.
+
+Questo desiderio bruciante divenne un fuoco indomabile dentro di lui, spingendolo a lasciare il villaggio che ormai gli sembrava troppo piccolo e privo di nuove storie. Un giorno, all’alba, decise di seguire la chiamata del suo cuore. Prese la sua lira e partì, pronto a vivere la più grande avventura della sua vita, una storia che avrebbe scritto con le sue azioni.
+
+Dirigendosi verso sud, dopo mezza giornata di cammino lungo un sentiero sconosciuto, Tommy si trovò davanti a un grande bosco. Fu qui che incontrò un viaggiatore misterioso di nome [[Tinwe Nailo, il Warlock]], e insieme decisero di unire le loro strade e di esplorare il mondo fianco a fianco, alla ricerca di avventure e leggende da creare e raccontare. Così, iniziò il viaggio di Tommy, un viaggio destinato a diventare leggenda.

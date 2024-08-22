@@ -1,0 +1,1 @@
+![[Valli del Sole 1.1.jpg]]

@@ -1,0 +1,9 @@
+![[Shamm.jpeg]]
+
+Shamm Frosk, nato ad [[Embar]] dall'unione improbabile tra [[Persivall]] (un elfo) e [[Maddy]] (una orchessa), ereditò da sua madre la robustezza e l'aspetto orchesco, mentre dal padre ricevette la longevità e le orecchie a punta. Crescendo, fu istruito dal padre nelle arti marziali e nelle tecniche di combattimento che Persivall aveva appreso durante la sua vita da avventuriero.
+
+Al suo 145esimo compleanno, suo padre gli rivelò di aver trascorso gran parte della sua gioventù cercando indizi sull'esistenza dei [[Giganti]]. Sebbene ogni traccia scritta indicasse che i Giganti fossero estinti da secoli, la leggenda continuava a vivere, suggerendo che fossero nascosti in una terra lontana, nel regno degli spiriti, dove governavano le leggi del mondo.
+
+Nonostante la rivelazione, il protagonista, ormai adulto e immerso nel suo lavoro di investigatore nel villaggio, non credeva più a quelle favole, considerandole frutto della fantasia. Tuttavia, la sua vita cambiò drasticamente il giorno in cui tornò a casa e trovò la sua abitazione in fiamme. Tra le rovine, scoprì il corpo carbonizzato di suo padre, che stringeva ancora il libro con la storia dei Giganti. Sul muro della casa, un simbolo tracciato da un [[Strige Purpurea|gruppo di malfattori]] che il protagonista aveva fatto arrestare settimane prima, segnava il luogo della tragedia.
+
+In preda al dolore e alla rabbia, decise di abbandonare il villaggio e di vivere secondo le sue regole. Giurò di trovare e punire i responsabili della morte di suo padre e di dedicare la sua vita alla ricerca dei Giganti, con l’obiettivo di diventare parte del loro ordine. Solo così avrebbe potuto rendere il mondo un luogo più giusto e sicuro.
