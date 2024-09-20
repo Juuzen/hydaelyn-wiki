@@ -1,3 +1,5 @@
+![[Sessione 1.png]]
+
 La Storia inizia a [[Rivarborea]], alla Locanda del Segno. Qui vari avventurieri e abitanti si riposano e gozzovigliano aspettando la giornata che verrà, ed è proprio qui che fanno l'ingresso due individui: [[Tommy Cynder, il Bardo|Tommy Cynder]] e [[Tinwe Nailo, il Warlock|Tinwe Nailo]].
 
 Appena entrati, Tommy inizia a suonare per rallegrare la serata ai commensali, mentre Tinwe fa la conoscenza di una giovane fanciulla del posto, di nome Ryla. Nel mentre che Tommy sta cantando, altri due forestieri fanno il loro ingresso alla Locanda: [[Torian il Barbaro|Torian]] e [[Magnus il Mago|Magnus]], che si avvicinano al bancone per gustare una buona birra.

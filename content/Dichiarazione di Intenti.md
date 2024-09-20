@@ -1,28 +1,31 @@
 ## Info e Regole Organizzative
-- Lunghezza della Campagna: media (6-9 mesi in base alla cadenza di gioco)
-- Cadenza delle sessioni: principalmente settimanalmente di giovedì
-- Luogo: The Sign 2.0 (Pomigliano D'Arco)
-- La sessione si rinvia solo se manca metà gruppo
-- Informare il prima possibile per qualsiasi contrattempo e/o imprevisto, e dare una risposta quando si organizza il giorno della sessione (non comunicare eventuali imprevisti e/o non dare segno di partecipazione durante la definizione del giorno di sessione comporta un'occhiataccia da parte del master, proprio come in Si Oscuro Signore... a due occhiatacce ramanzina del master e a tre occhiatacce via dal gruppo di gioco)
-
-## Info della Campagna
-- Sistema di Gioco: D&D 5E
-- Tono della campagna: seria
-- Livello di partenza: 1
-- Livello di arrivo: 7 (?)
-- Classi permesse: tutte
-- Razze permesse: tutte
-- Allineamenti permessi: tutti ad eccezione dei malvagi
-- Caratteristiche di partenza per i nuovi giocatori: 16 14 14 12 12 10 da distribuire come si vuole
-- Divinità presenti: nessuna, ma al loro posto potete fare affidamento sugli Spiriti della natura e del Feywild (se ne avete qualcuno in mente, potete parlarne con il master)
-- Patroni presenti: nessuno, ma al loro posto potete fare affidamenti sugli Spiriti della natura e del Feywild (se ne avete qualcuno in mente, potete parlarne con il master)
-- Per la costruzione del personaggio, si può procedere in autonomia e mostrare la scheda al master quando si è completato il tutto (una la tiene il master e una per comodità potete tenerla voi)
+- Cadenza delle sessioni: in maniera alternata, un martedì ed una domenica a settimana
+- Luogo: The Sign 2.0 (Viale Indipendenza 17/19, Pomigliano D'Arco)
+- Orario di inizio sessione: 9:00
+- Se manca metà o più gruppo, la sessione salta (non si recupera in un altro giorno della settimana)
+- I giorni, il luogo e l'orario di inizio sono fissi, è richiesto organizzarsi per tempo in modo da mantenersi liberi sulla sessione. Siamo umani, gli imprevisti possono capitare, ma EVITIAMO di dare buca il giorno stesso (o 1-2 giorni prima) se non per REALI necessità... la nostra mancanza alla sessione può danneggiare anche gli altri e plausibilmente far saltare la sessione
+- A discrezione del master, se vi sono reali problemi organizzativi che minano la continuità della campagna, se ne discute per capire se il problema è affrontabile, se può servire del tempo per ritornare successivamente, oppure si richiede l'allontanamento dal tavolo (nessun rancore, amici come prima, ma si porta avanti la campagna per giocarla non per posticiparla di settimana in settimana)
 
 ## Consigli sulle sessioni
 - Il tempo è importante per tutti, quindi quando siamo al tavolo siamo tutti concentrati su quello che sta accadendo
+- Se avete bisogno di un break, fatelo presente e, se siamo tutti d'accordo, ci prendiamo tutti insieme un 10 minuti di pausa (evitate di fare pausa per conto vostro, i momenti che vi perdete non vi verranno detti in seguito)
 - Vivete la sessione come un film, di cui i vostri personaggi sono i protagonisti: siate loro fan! Anche se le azioni non riguardano il vostro personaggio, non c'è nulla che vi vieti di essere partecipativi e attenti su ciò che sta avvenendo (che, molto spesso, può avere risvolti anche per voi)
 - Siate padroni dei vostri personaggi e della vostra scheda: soprattutto nei combattimenti, pensate fin da subito a cosa il vostro personaggio vorrebbe fare, e non aspettate il vostro turno per capire quale azione compiere! Questo snellirà di molto i tempi morti dei combattimenti, e giocheremo tutti di più
 - Voi siete responsabili solo del vostro personaggio e delle sue azioni: tutto quello che riguarda meccaniche etc è compito del master. Piuttosto che dire "Faccio un check di Religione per capire se il mio personaggio conosce questa leggenda", dite "Questa leggenda sembra smuovere qualcosa nei ricordi del mio personaggio. Master mi sovviene qualcosa?" in modo da dare al master il compito di dirvi cosa tirare e quando! Restate il più possibile nei vostri personaggi in modo da non spezzare la sospensione di incredulità del tavolo
+
+## Info della Campagna
+- ***Sistema di Gioco***: D&D 5E
+- ***Tono della campagna***: seria
+- ***Lunghezza della Campagna***: media (6-9 mesi in base alla cadenza di gioco)
+- ***Livello di partenza***: 1
+- ***Livello di arrivo***: 7 (?)
+- ***Classi permesse***: tutte
+- ***Razze permesse***: tutte
+- ***Allineamenti permessi***: tutti ad eccezione dei malvagi
+- ***Caratteristiche di partenza per i nuovi giocatori***: **16 14 14 12 12 10** da distribuire come si vuole
+- ***Divinità presenti***: nessuna, ma al loro posto potete fare affidamento sugli Spiriti della natura e del Feywild (se ne avete qualcuno in mente, potete parlarne con il master)
+- ***Patroni presenti***: nessuno, ma al loro posto potete fare affidamenti sugli Spiriti della natura e del Feywild (se ne avete qualcuno in mente, potete parlarne con il master)
+- Per la costruzione del personaggio, si può procedere in autonomia e mostrare la scheda al master quando si è completato il tutto (una la tiene il master e una per comodità potete tenerla voi)
 
 ## Regole Homebrew
 - **Epic 7**: il tetto massimo per il livello di potere (sia lato PG che lato mondo) è il 7. Questo implica che il massimo livello degli incantesimi è il 4°, e che tutto il mondo rispetta queste regole;

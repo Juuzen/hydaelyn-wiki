@@ -1,3 +1,5 @@
+![[Sessione 2.png]]
+
 Indagando verso la fonte della corruzione del fiume che ha causato gli effetti nefasti sui goblin, il gruppo giunge ad una cascata dove ai bordi del bacino, vi è una figura umanoide che sembra essere lì ad ammirare l'acqua.
 
 [[Torian il Barbaro|Torian]] (feat. Marica) cerca di aggirare il bacino e di prenderla alle spalle mentre [[Tommy Cynder, il Bardo|Tommy]], [[Tinwe Nailo, il Warlock|Tinwe]] e un druido di nome Nimue (feat. Ilaria) cercano di parlarle. Si rendono subito conto che la figura è una ninfa dei boschi ma il cui aspetto è visibilmente corrotto e mutato: invece di erbe e foglie è adornata di rovi, e i suoi occhi sono tutti neri. 
