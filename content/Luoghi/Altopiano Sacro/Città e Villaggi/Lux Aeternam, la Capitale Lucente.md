@@ -1,0 +1,1 @@
+Lux Aeternam è stata, secondo la leggenda, la Capitale dei Lucenti, ossia coloro che hanno abbracciato la missione della [[Luce dell'Albero del Mondo]]. Costruita ai piedi dell
