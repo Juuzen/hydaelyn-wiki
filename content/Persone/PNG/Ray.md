@@ -1,0 +1,1 @@
+Ray è il famiglio di [[Tinwe Nailo, il Warlock|Tinwe]].
