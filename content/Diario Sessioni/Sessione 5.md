@@ -6,14 +6,24 @@
 
 Dopo averla bloccata, il gruppo effettua un rituale di purificazione con queste parole:
 
-> *Che il fuoco del destino bruci*
-> *Che il buio che dilaga cessi*
+> [!abstract] Rituale
+>
+>*Che il fuoco del destino bruci*
+>
+>*Che il buio che dilaga cessi*
+> 
 > *Risuonino all'unisono le luci del Fato*
+> 
 > *Noi che siamo i Portatori di Luce*
+> 
 > *Trafiggiamo l'Oscurità che incombe*
+> 
 > *Irradiamo il mondo dei colori dell'alba*
+> 
 > *Facendo terminare il crepuscolo*
+> 
 > *Possano le radici di Yggdrasil che risiedono nel tuo cuore*
+> 
 > *Essere la tua luce guida*
 
 Il rituale sembra avere effetto perché Nymelia assume il suo candido aspetto originario, seppure ancora stordita dai recenti avvenimenti. Quando si riprende, rivela che qualche settimana prima aveva avvertito un influsso malefico nella foresta e lei, in quanto Spirito protettrice, aveva il compito di difendere ciò che stava succedendo. Quando è entrata nella grotta, ha avvertito subito un fortissimo potere inquietante che la avvolgeva e che le ha fatto perdere i sensi, probabilmente rendendola un burattino nelle mani dell'[[Oscurità]].
