@@ -1,1 +1,1 @@
-Libro in possesso attualmente da [[Shamm Frosk, il Ladro]], è un libro del suo defunto padre che racconta le origini di [[Hydaelyn]] sotto forma di fiaba.
+Libro in possesso attualmente da [[Shamm Frosk]], è un libro del suo defunto padre che racconta le origini di [[Hydaelyn]] sotto forma di fiaba.

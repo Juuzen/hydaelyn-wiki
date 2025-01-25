@@ -2,8 +2,7 @@
 title: Stele dei Ricordi
 ---
 
-
-Benvenuta, foglia lucente! Qui alla Stele dei Ricordi puoi trovare tutte le informazioni che ti servono per quanto riguarda il mondo di Hydaelyn e ciò che viene narrato durante ciò che viene chiamata campagna *"Foglie dell'Albero Lucente"*!
+Benvenut*, foglia lucente! Qui alla Stele dei Ricordi puoi trovare tutte le informazioni che ti servono per quanto riguarda il mondo di Hydaelyn e, in particolare, ciò che viene narrato durante la campagna *"Foglie dell'Albero Lucente"* e le varie oneshots che prendono luogo in queste terre!
 
 Se sei un nuovo player, vuoi recuperare le regole su cui si basa la campagna, o vuoi semplicemente un incipit per capire di cosa si tratta, puoi leggere la nostra [[Dichiarazione di Intenti]].
 
