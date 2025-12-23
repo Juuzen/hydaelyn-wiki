@@ -1,6 +1,6 @@
-![[Tinwe Nailo.jpeg]]
+![[Tinwe Nailo.png]]
 
-Tinwè, un giovane mezzelfo nato a [[Enoris]], capitale degli Elfi della Foresta Eterna, è figlio di [[Soveliss]], un elfo cacciatore di grande abilità, e [[Kara]], un’umana che morì dandolo alla luce. Crescere come mezzelfo a Enoris non è stato facile: gli elfi, spesso sprezzanti, gli rendevano la vita difficile e persino l’accesso alla città gli era spesso negato. Tuttavia, il rispetto verso suo padre gli garantiva un po’ di tregua durante le rare visite alla capitale.
+Tinwe, un giovane mezzelfo nato a [[Enoris]], capitale degli Elfi della Foresta Eterna, è figlio di [[Soveliss]], un elfo cacciatore di grande abilità, e [[Kara]], un’umana che morì dandolo alla luce. Crescere come mezzelfo a Enoris non è stato facile: gli elfi, spesso sprezzanti, gli rendevano la vita difficile e persino l’accesso alla città gli era spesso negato. Tuttavia, il rispetto verso suo padre gli garantiva un po’ di tregua durante le rare visite alla capitale.
 
 Fin da bambino, Tinwè dimostrò una grande intelligenza tattica, affiancando il padre durante la caccia. A otto anni, durante uno di questi viaggi, Tinwè si innamorò dei libri, trovando nel sapere un rifugio dalle difficoltà quotidiane. Passava le giornate cacciando e le notti leggendo sotto la luce della luna.
 

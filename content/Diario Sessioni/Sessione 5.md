@@ -1,6 +1,6 @@
 ![[Sessione 5.png]]
 
-[[Tinwe Nailo]], tramite la connessione che ha con [[Ray]], riesce a capire che nell'ultima grotta vicino al [[Cuore dell'Oscurità]] è presente [[Nymelia, Ninfa dei Boschi]]. Il gruppo si prepara per parlarle ed eventualmente affrontarla qualora non avesse intenzioni amichevoli.
+[[Tinwe Nailo]], tramite la connessione che ha con [[Ray]], riesce a capire che nell'ultima grotta vicino al [[Cuore dell'Abisso]] è presente [[Nymelia, Ninfa dei Boschi]]. Il gruppo si prepara per parlarle ed eventualmente affrontarla qualora non avesse intenzioni amichevoli.
 
 [[Althea Nysenar]], quando la vede, nota subito che lei è sotto l'influsso di una energia potente e malevola, poiché non è la Nymelia che ricordava. Infatti, quando le due si incontrano, Nymelia le dice che la [[Hoherwald]] è sotto un terribile attacco e che sta cercando di rinsaldare la forza della Foresta tramite il Cuore. Il gruppo si accorge subito che Nymelia sembra essere soggiogata da questa terribile forza oscura, e pertanto la affrontano col preciso intento di renderla inoffensiva e capire come poterla purificare.
 
@@ -26,9 +26,9 @@ Dopo averla bloccata, il gruppo effettua un rituale di purificazione con queste 
 > 
 > *Essere la tua luce guida*
 
-Il rituale sembra avere effetto perché Nymelia assume il suo candido aspetto originario, seppure ancora stordita dai recenti avvenimenti. Quando si riprende, rivela che qualche settimana prima aveva avvertito un influsso malefico nella foresta e lei, in quanto Spirito protettrice, aveva il compito di difendere ciò che stava succedendo. Quando è entrata nella grotta, ha avvertito subito un fortissimo potere inquietante che la avvolgeva e che le ha fatto perdere i sensi, probabilmente rendendola un burattino nelle mani dell'[[Oscurità]].
+Il rituale sembra avere effetto perché Nymelia assume il suo candido aspetto originario, seppure ancora stordita dai recenti avvenimenti. Quando si riprende, rivela che qualche settimana prima aveva avvertito un influsso malefico nella foresta e lei, in quanto Spirito protettrice, aveva il compito di difendere ciò che stava succedendo. Quando è entrata nella grotta, ha avvertito subito un fortissimo potere inquietante che la avvolgeva e che le ha fatto perdere i sensi, probabilmente rendendola un burattino nelle mani dell'[[Abisso]].
 
-Il gruppo chiede se è possibile fare lo stesso anche per il [[Cuore dell'Oscurità]] e, dopo aver tentato, il [[Cuore dell'Oscurità]] viene purificato.
+Il gruppo chiede se è possibile fare lo stesso anche per il [[Cuore dell'Abisso]] e, dopo aver tentato, il [[Cuore dell'Abisso]] viene purificato.
 
 I rovi che lo alimentavano si sgretolano appena viene purificato, lasciando trasparire un fagotto sferico formato da foglie ed altre componenti naturali. Nymelia si accorge subito che i rovi che si originavano dal Cuore, formavano una diga per il fluire delle acque, e che senza di essi ora l'acqua stava per straripare.
 
@@ -45,6 +45,6 @@ Nymelia si congeda, ringraziando ancora una volta il gruppo per l'aiuto dato a l
 
 Durante i festeggiamenti, [[Shamm Frosk]] viene avvicinato da [[Adrien, locandiere di Verdevia]], che gli informa che stamattina quando i nani sono arrivati per avvisare di fermare la [[Festa del Raccolto]], un uomo in fretta ed in furia ha abbandonato la sua stanza in una delle locande, e si è diretto velocemente al Cancello Ovest per uscire dalla città.
 
-Il gruppo viene accompagnato nella camera di questa persona, e trovano la stanza completamente a soqquadro. Perdendo un po' di tempo per indagare sull'accaduto, il gruppo trova un baule con all'interno tre scompartimenti sferici: uno grande e due più piccoli, che sembrano corrispondere ai nuclei del [[Cuore dell'Oscurità]]. Trovano, inoltre, un bracciale con incisi alcuni simboli ed un messaggio cifrato:
+Il gruppo viene accompagnato nella camera di questa persona, e trovano la stanza completamente a soqquadro. Perdendo un po' di tempo per indagare sull'accaduto, il gruppo trova un baule con all'interno tre scompartimenti sferici: uno grande e due più piccoli, che sembrano corrispondere ai nuclei del [[Cuore dell'Abisso]]. Trovano, inoltre, un bracciale con incisi alcuni simboli ed un messaggio cifrato:
 
 ![[Messaggio Cifrato 1.jpeg]]

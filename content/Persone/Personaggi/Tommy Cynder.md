@@ -1,4 +1,4 @@
-![[assets/Tommy.JPG]]
+![[Tommy Cinder.png]]
 
 Tommy Cynder nacque in una valle remota e quasi dimenticata dal resto del mondo, chiamata [[Felicistar]] dai suoi abitanti. Cresciuto in un piccolo villaggio dove la generosità era la legge non scritta, il giovane halfling sviluppò presto un amore profondo per la musica e per le leggende tramandate di generazione in generazione. Ogni melodia e racconto che ascoltava alimentava il suo spirito curioso, ma presto Tommy si rese conto che le storie del villaggio non gli bastavano più: desiderava qualcosa di nuovo, qualcosa di grande.
 

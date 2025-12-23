@@ -7,3 +7,13 @@ Qui puoi trovare una lista di tutte le sessioni finora svolte:
 - [[Sessione 4|Sessione 4 - Maledizione]]
 - [[Sessione 5|Sessione 5 - Purificazione]]
 - [[Sessione 6|Sessione 6 - Festa]]
+
+Arco di Goledrien
+- Sessione 7 - Arrivo
+- Sessione 8 - Minaccia
+- Sessione 9 - Risveglio
+- Sessione 10 - Nuovi incontri
+- Sessione 11 - Missione
+
+Arco del Barone
+- Sessione 12 - Ritorno a Verdevia

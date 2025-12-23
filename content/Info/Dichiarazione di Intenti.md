@@ -1,6 +1,6 @@
 ## Info e Regole Organizzative
-- Cadenza delle sessioni: in maniera alternata, un martedì ed una domenica a settimana
-- Luogo: The Sign 2.0 (Viale Indipendenza 17/19, Pomigliano D'Arco)
+- Cadenza delle sessioni: in maniera alternata, ogni due lunedì del mese
+- Luogo: Casa di Roman
 - Orario di inizio sessione: 9:00
 - Se manca metà o più gruppo, la sessione salta (non si recupera in un altro giorno della settimana)
 - I giorni, il luogo e l'orario di inizio sono fissi, è richiesto organizzarsi per tempo in modo da mantenersi liberi sulla sessione. Siamo umani, gli imprevisti possono capitare, ma EVITIAMO di dare buca il giorno stesso (o 1-2 giorni prima) se non per REALI necessità... la nostra mancanza alla sessione può danneggiare anche gli altri e plausibilmente far saltare la sessione

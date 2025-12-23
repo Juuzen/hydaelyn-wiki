@@ -1,0 +1,1 @@
+![[El Gitano.png]]

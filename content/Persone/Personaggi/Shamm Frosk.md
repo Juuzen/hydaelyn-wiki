@@ -1,4 +1,4 @@
-![[Shamm.jpeg]]
+![[Shamm Frosk.png]]
 
 Shamm Frosk, nato ad [[Embar]] dall'unione improbabile tra [[Persivall]] (un elfo) e [[Maddy]] (una orchessa), ereditò da sua madre la robustezza e l'aspetto orchesco, mentre dal padre ricevette la longevità e le orecchie a punta. Crescendo, fu istruito dal padre nelle arti marziali e nelle tecniche di combattimento che Persivall aveva appreso durante la sua vita da avventuriero.
 

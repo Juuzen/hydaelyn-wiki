@@ -9,3 +9,5 @@ Se sei un nuovo player, vuoi recuperare le regole su cui si basa la campagna, o 
 Per avere sotto mano le informazioni su tutti i membri del party attuale, puoi leggere il [[Diario del party]].
 
 Se sei invece interessato alla storia raccontata finora, puoi leggere il [[Diario delle Sessioni]].
+
+Se vuoi ricordare al volo quali sono i prossimi obiettivi, puoi leggere il [[Diario delle Quests]].
